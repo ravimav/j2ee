@@ -1,0 +1,794 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 04:19:11 #1 store] 
+Database 'C:\problemSet2\answerFour\db\User.odb' is opened by 9004@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 05:05:59 #1 store] 
+Database 'C:\problemSet2\answerFour\db\User.odb' has been recovered (tr. 1-2)
+
+[2013-10-21 05:05:59 #2 store] 
+Database 'C:\problemSet2\answerFour\db\User.odb' is opened by 8848@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 05:11:17 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 10248@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 05:13:34 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' has been recovered (tr. 1-2)
+
+[2013-10-21 05:13:34 #2 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 9560@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 05:15:13 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 2096@Akash
+
+[2013-10-21 05:15:14 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 05:15:14 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:09:28 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 7644@Akash
+
+[2013-10-21 06:09:28 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:10:07 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 10468@Akash
+
+[2013-10-21 06:10:07 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:10:17 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 7732@Akash
+
+[2013-10-21 06:10:17 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:10:48 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 9728@Akash
+
+[2013-10-21 06:10:48 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:17:19 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 10652@Akash
+
+[2013-10-21 06:17:19 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 06:26:59 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 2776@Akash
+
+[2013-10-21 06:26:59 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 13:19:02 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 11180@Akash
+
+[2013-10-21 13:19:02 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 13:19:52 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 5436@Akash
+
+[2013-10-21 13:19:52 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 15:47:43 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 7736@Akash
+
+[2013-10-21 15:47:43 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:12:06 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 9828@Akash
+
+[2013-10-21 16:12:06 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:12:25 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 5716@Akash
+
+[2013-10-21 16:12:25 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:17:35 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 2680@Akash
+
+[2013-10-21 16:17:36 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:18:21 #1 store] 
+Database 'C:\problemSet2\answerFour\db\User.odb' is opened by 11360@Akash
+
+[2013-10-21 16:18:21 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 16:18:21 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:18:21 #4 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:18:21 #5 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:18:21 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:18:21 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:18:21 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:18:21 #9 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:18:21 #10 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:19:22 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 12256@Akash
+
+[2013-10-21 16:19:22 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:20:11 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Users.odb' is opened by 10964@Akash
+
+[2013-10-21 16:20:11 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 16:20:11 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:20:11 #4 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:20:11 #5 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:20:11 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:20:11 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:20:11 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:20:11 #9 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:20:11 #10 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:25:27 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' is opened by 6912@Akash
+
+[2013-10-21 16:25:27 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 16:25:27 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:25:27 #4 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:25:27 #5 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:25:27 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:25:27 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:25:28 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:25:28 #9 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:25:28 #10 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:40:46 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' has been recovered (tr. 1-6)
+
+[2013-10-21 16:40:47 #2 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' is opened by 11588@Akash
+
+[2013-10-21 16:40:47 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:41:28 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' is opened by 11124@Akash
+
+[2013-10-21 16:41:28 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:42:22 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' is opened by 9820@Akash
+
+[2013-10-21 16:42:22 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:42:22 #3 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:42:22 #4 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:42:22 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:42:22 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:42:23 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:42:23 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:42:23 #9 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:46:30 #1 store] 
+Database 'C:\problemSet2\answerFour\db\Us.odb' is opened by 11916@Akash
+
+[2013-10-21 16:46:30 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:49:44 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 8660@Akash
+
+[2013-10-21 16:49:44 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 16:49:44 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:49:44 #4 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:49:44 #5 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:49:44 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:49:44 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:49:44 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:49:44 #9 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:49:44 #10 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:51:56 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' has been recovered (tr. 1-6)
+
+[2013-10-21 16:51:56 #2 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 7188@Akash
+
+[2013-10-21 16:51:56 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 16:52:44 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 11884@Akash
+
+[2013-10-21 16:52:44 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 16:52:44 #3 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:52:44 #4 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+[2013-10-21 16:52:45 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:52:45 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:52:45 #7 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:52:45 #8 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 16:52:45 #9 type.registry] 
+New type com.example.jpa.Answers
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:05:12 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 12256@Akash
+
+[2013-10-21 17:05:12 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:13:49 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 4464@Akash
+
+[2013-10-21 17:13:49 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:15:13 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 10268@Akash
+
+[2013-10-21 17:15:13 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:26:15 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 7568@Akash
+
+[2013-10-21 17:26:16 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:26:39 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 11332@Akash
+
+[2013-10-21 17:26:39 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:30:44 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 5712@Akash
+
+[2013-10-21 17:30:44 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:31:45 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 11208@Akash
+
+[2013-10-21 17:31:45 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:32:24 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 11960@Akash
+
+[2013-10-21 17:32:24 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:35:09 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 12132@Akash
+
+[2013-10-21 17:35:10 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:36:10 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 10768@Akash
+
+[2013-10-21 17:36:10 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:37:24 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 4748@Akash
+
+[2013-10-21 17:37:24 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 17:38:46 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 11964@Akash
+
+[2013-10-21 17:38:47 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:01:27 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 8352@Akash
+
+[2013-10-21 20:01:27 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:01:51 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 12180@Akash
+
+[2013-10-21 20:01:52 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:13:50 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Us.odb' is opened by 12864@Akash
+
+[2013-10-21 20:13:50 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:15:56 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 12244@Akash
+
+[2013-10-21 20:15:56 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 20:15:56 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:17:05 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' has been recovered (tr. 1-3)
+
+[2013-10-21 20:17:05 #2 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 13196@Akash
+
+[2013-10-21 20:17:05 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:18:17 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' has been recovered (tr. 4-4)
+
+[2013-10-21 20:18:18 #2 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 12640@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:20:54 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 12624@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:27:48 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 12572@Akash
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:35:49 #1 store] 
+Database 'C:\problemSet2\answerFour\dbs\Users.odb' is opened by 13260@Akash
+
+[2013-10-21 20:35:49 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:35:49 #3 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 20:35:49 #4 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 20:35:49 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:35:49 #6 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:36:25 #1 store] 
+Database 'C:\problemSet2\answerFour\aps\Users.odb' is opened by 8268@Akash
+
+[2013-10-21 20:36:25 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 20:36:25 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:36:25 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 20:36:25 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 20:36:25 #6 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:36:25 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:40:33 #1 store] 
+Database 'C:\problemSet2\answerFour\aps\Users.odb' is opened by 12744@Akash
+
+[2013-10-21 20:40:33 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:40:33 #3 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:40:33 #4 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:41:25 #1 store] 
+Database 'C:\problemSet2\answerFour\aps\Users.odb' is opened by 2508@Akash
+
+[2013-10-21 20:41:25 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 20:41:25 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:41:25 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 20:41:25 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 20:41:25 #6 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:41:25 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:49:09 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 8784@RaviMav-PC
+
+[2013-10-21 20:49:10 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:49:10 #3 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:49:10 #4 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 20:49:38 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 5316@RaviMav-PC
+
+[2013-10-21 20:49:39 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 20:49:39 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 20:49:39 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 20:49:39 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 20:49:39 #6 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 20:49:39 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:01:47 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 10864@RaviMav-PC
+
+[2013-10-21 21:01:47 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:01:47 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:01:47 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:01:47 #5 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:01:47 #6 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:01:47 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:03:51 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 13804@RaviMav-PC
+
+[2013-10-21 21:03:51 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:03:51 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:03:51 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:03:51 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:03:51 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:03:51 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:10:58 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 14948@RaviMav-PC
+
+[2013-10-21 21:10:58 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:10:58 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:10:58 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:10:58 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:10:58 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:10:58 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:18:40 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 12956@RaviMav-PC
+
+[2013-10-21 21:18:41 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:18:41 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:18:41 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:18:41 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:18:41 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:18:41 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:20:29 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 6068@RaviMav-PC
+
+[2013-10-21 21:20:29 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:20:29 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:20:29 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:20:29 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:20:29 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:20:29 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:22:06 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 5072@RaviMav-PC
+
+[2013-10-21 21:22:06 #2 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:22:06 #3 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:22:06 #4 type] 
+Type com.example.jpa.Answers is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-10-21 21:24:31 #1 store] 
+Database 'C:\Problemset2\answerFour\aps\Users.odb' is opened by 8216@RaviMav-PC
+
+[2013-10-21 21:24:31 #2 type.registry] 
+New type com.example.jpa.Users
+
+[2013-10-21 21:24:31 #3 type] 
+Type com.example.jpa.Users is not enhanced.
+
+[2013-10-21 21:24:31 #4 type.registry] 
+New type com.example.jpa.Questions
+
+[2013-10-21 21:24:31 #5 type] 
+Type com.example.jpa.Questions is not enhanced.
+
+[2013-10-21 21:24:31 #6 type.registry] 
+New type com.example.jpa.Answers
+
+[2013-10-21 21:24:31 #7 type] 
+Type com.example.jpa.Answers is not enhanced.
+

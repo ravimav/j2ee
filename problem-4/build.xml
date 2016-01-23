@@ -1,0 +1,65 @@
+<project name="hw2-databaseapp-servlet" default="compile"
+		xmlns:artifact="antlib:org.apache.maven.artifact.ant">
+		
+		<property name="jetty-dir" value="C:\jetty-distribution-9.0.6.v20130930" />
+		
+		<target name="init">
+			<mkdir dir="classes"/>
+			<mkdir dir="war"/>
+			<artifact:dependencies pathId="dependency.classpath"
+								   filesetId="dependency.fileset">
+			
+					<dependency groupId="org.springframework" 
+									artifactId="spring-context" 
+									version="3.2.4.RELEASE" />			
+				
+					<dependency groupId = "commons-dbcp"						
+								artifactId = "commons-dbcp"
+								version = "1.4" />
+
+					<dependency groupId="org.hsqldb" 
+									artifactId="hsqldb" 
+									version="2.3.0" />
+			
+			</artifact:dependencies>
+			
+		</target>
+		
+		<target name="compile" depends="init">
+			<javac includeantruntime="false"
+				   srcdir="src" 
+				   destdir="classes"
+				   classpath = "lib/commons-dbcp-1.4.jar;
+				   C:\jetty-distribution-9.0.6.v20130930\lib\servlet-api-3.0.jar;
+				   C:\hsqldb\lib\hsqldb.jar">
+				   <classpath refId= "dependency.classpath"/>			
+			</javac>
+			
+		</target>
+		<target name="build-war" depends="compile">
+			
+			<mkdir dir="war/WEB-INF" />
+			<mkdir dir="war/WEB-INF/lib" />
+			<mkdir dir="war/WEB-INF/classes" />
+			<copy todir="war/WEB-INF/classes">
+				<fileset dir="classes" includes="com/example/servlet/**/*.class" />
+			</copy>
+			
+			<copy todir="war/WEB-INF/lib">
+				<fileset dir="lib" includes="hsqldb.jar" />
+			</copy>
+			
+			<jar destfile="war/questions.war" 
+				 basedir = "war" >
+			</jar>
+		</target>
+
+		<target name= "deploy" depends="build-war">
+			<copy file="war/questions.war" todir="${jetty-dir}/webapps" />
+		</target>
+		
+		<target name="clean">
+			<delete dir="classes" />
+			<delete dir="war" />
+		</target>
+</project>

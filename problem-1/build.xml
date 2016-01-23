@@ -1,0 +1,56 @@
+<project name="hw2" default="compile"
+		xmlns:artifact="antlib:org.apache.maven.artifact.ant">
+		
+		<target name="init">
+			<mkdir dir="classes"/>
+			<mkdir dir="aps"/>
+			
+			<artifact:dependencies pathId="dependency.classpath">
+			
+					<dependency groupId="org.springframework" 
+									artifactId="spring-context" 
+									version="3.2.4.RELEASE" />	
+					<dependency groupId="org.springframework" 
+									artifactId="spring-jdbc" 
+									version="3.2.4.RELEASE" />
+	
+					<dependency groupId="org.springframework"
+						artifactId="spring-core"
+						 version="3.2.4.RELEASE" />
+			
+						
+						<remoteRepository id="objectdb" url="http://m2.objectdb.com" />
+						<dependency groupId="com.objectdb" artifactId="objectdb" version="2.5.3_02" />
+
+						<dependency groupId = "commons-dbcp"						
+								artifactId = "commons-dbcp"
+								version = "1.4" />
+
+			</artifact:dependencies>
+			
+		</target>
+		
+		<target name="compile" depends="init">
+			<javac includeantruntime="false"
+				   srcdir="src" 
+				   destdir="classes"
+				   classpath = "lib/commons-dbcp-1.4.jar;lib/objectdb.jar">
+				   <classpath refId= "dependency.classpath"/>
+			
+			</javac>
+			
+		</target>
+		
+		<target name="run" depends="compile">
+			<java classpath="classes;lib/commons-dbcp-1.4.jar;lib/objectdb.jar"
+			  		classname="com.example.jpa.JpaDatabaseApp">
+			<classpath refId= "dependency.classpath"/>
+			</java>
+		</target>
+		
+		<target name="clean">
+			<delete dir="classes" />
+			<delete dir="aps" />
+		</target>
+		
+</project>
